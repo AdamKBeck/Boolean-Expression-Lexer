@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mConjunctiveRepresentationTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mCompoundFactor's conjunctiveRepresentation()[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return an expression in the form not left or not right, true[0m[0m
+[0m[[0minfo[0m] [0m[32mCompoundFactor's nested conjunctiveRepresentation()[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return an expression with the negation flag explicitely as not in inside expression[0m[0m
+[0m[[0minfo[0m] [0m[32mCompoundFactor's double negation conjunctiveRepresentation()[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Cancel out all appropriate double not's found in the expression[0m[0m
+[0m[[0minfo[0m] [0m[32mIdentifier's conjunctiveRepresentatin()[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return the same identifier with negation set to false[0m[0m
+[0m[[0minfo[0m] [0m[32mDisjunctiveExpression conjunctiveRepresentation()[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return the conjunctiveRepresentation of its factor implement[0m[0m
+[0m[[0minfo[0m] [0m[32mComplex nested double negative DisjunctiveExpression conjunctiveRepresentation()[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return the correct cojunctiveRepresentation and exclude double negatives[0m[0m

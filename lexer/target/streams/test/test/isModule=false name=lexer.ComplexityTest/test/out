@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mComplexityTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mA simple non-complex expression[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Have a complexity of zero[0m[0m
+[0m[[0minfo[0m] [0m[32mAn expression with all non-complex tokens[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Have a complexity of zero[0m[0m
+[0m[[0minfo[0m] [0m[32mAn expression with complex tokens[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Have a complexity of as many complex tokens there are[0m[0m

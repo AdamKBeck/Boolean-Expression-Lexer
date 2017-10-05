@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mTokenTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mA NOT Token type[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have the pattern not and acillary data false[0m[0m
+[0m[[0minfo[0m] [0m[32mtwo tokens types[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have different hashcodes, tostring, and equality[0m[0m
+[0m[[0minfo[0m] [0m[32mA Builder token[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have different equals and hashcode as another Builder token[0m[0m
+[0m[[0minfo[0m] [0m[32mToken construction[0m[0m
+[0m[[0minfo[0m] [0m[32m- should add to the map distinctly and be able to be looked up[0m[0m
+[0m[[0minfo[0m] [0m[32mA Token getName call[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have the appropriate getName returned value[0m[0m

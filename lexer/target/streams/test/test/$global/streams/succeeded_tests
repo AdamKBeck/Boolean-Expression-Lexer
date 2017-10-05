@@ -1,0 +1,12 @@
+#Successful Tests
+#Tue Oct 03 13:37:22 EDT 2017
+lexer.ConjunctiveRepresentationTest=1507052242543
+lexer.DisjunctiveLexerTest=1507052242532
+lexer.LocationalTokenTest=1507052242475
+lexer.ComplexityTest=1507052242476
+lexer.IdentifierTest=1507052242475
+lexer.CompoundFactorTest=1507052242475
+lexer.DisjunctiveExpressionTest=1507052242477
+lexer.ParserExceptionTest=1507052242532
+lexer.TokenTest=1507052242557
+lexer.LexerTest=1507052242546

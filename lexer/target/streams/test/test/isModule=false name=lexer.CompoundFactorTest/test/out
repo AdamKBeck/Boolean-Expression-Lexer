@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mCompoundFactorTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mcheckNext[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw the correct expected exception or an Invalid Token exception[0m[0m
+[0m[[0minfo[0m] [0m[32mtoString from build with a simple (a and b) expression[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the correct left and right expressions[0m[0m
+[0m[[0minfo[0m] [0m[32mtoString from build with a complex (Disjunctive expression and Disjunctive expression)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the correct left and right expressions[0m[0m

@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0m[32mLexerTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mtokenToGroupedRegex[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return a pattern of correctly formatted regex groups[0m[0m
+[0m[[0minfo[0m] [0m[32mhasNext for a valid expression[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return true throughout every true matcher.find and false when done[0m[0m
+[0m[[0minfo[0m] [0m[32mhasNext for an invalid expression[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return false from the start[0m[0m
+[0m[[0minfo[0m] [0m[32mnext for valid locational tokens[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return a LocationalToken with the correct type and location[0m[0m
+[0m[[0minfo[0m] [0m[32mnext for invalid locational tokens[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw a TOKEN_EXPECTED exception[0m[0m
+[0m[[0minfo[0m] [0m[32mgetFirstMatchedToken[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Get the first matched token correctly[0m[0m
+[0m[[0minfo[0m] [0m[32mnextValid with valid types[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return an option of the locational token found[0m[0m
+[0m[[0minfo[0m] [0m[32mnextValid with invalid types[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Throw an INVALID_TOKEN exception[0m[0m

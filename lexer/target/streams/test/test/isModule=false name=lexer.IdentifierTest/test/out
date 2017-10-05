@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mIdentifierTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mbuild with not an ID token[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an ID_EXPECTED() exception[0m[0m
+[0m[[0minfo[0m] [0m[32mtoString from a build with an ID token[0m[0m
+[0m[[0minfo[0m] [0m[32m- should output the data for the ID token[0m[0m

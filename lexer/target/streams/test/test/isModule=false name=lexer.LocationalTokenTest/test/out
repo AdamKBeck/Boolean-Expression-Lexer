@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mLocationalTokenTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mA Locational token created from the LocationalToken class[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return its appropriate token, location, type, and data[0m[0m
+[0m[[0minfo[0m] [0m[32mA Locational token created from parsing in our Lexer class[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return its appropriate token, location, type, and data[0m[0m

@@ -1,0 +1,12 @@
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+sbt run
+sbt runMain
+sbt run (a and b)
+run

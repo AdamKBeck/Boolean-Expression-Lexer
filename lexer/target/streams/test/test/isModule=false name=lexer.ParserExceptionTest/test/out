@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mParserExceptionTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mverify with a None[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Throw a TOKEN_EXPECTED exception[0m[0m
+[0m[[0minfo[0m] [0m[32mVerify with a LocationalToken[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Not throw an exception[0m[0m
+[0m[[0minfo[0m] [0m[32mverifyEnd with a LocationalToken[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Throw a TRAILING_INPUT exception[0m[0m
+[0m[[0minfo[0m] [0m[32mverifyEnd with None[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Not throw an exception[0m[0m
+[0m[[0minfo[0m] [0m[32mParserException.ErrorCode Enums[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Be able to get their errorCodes and locations effectively[0m[0m
+[0m[[0minfo[0m] [0m[32mthe expectedType verify method[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Throw the correct errorCode if it is not the expected type[0m[0m

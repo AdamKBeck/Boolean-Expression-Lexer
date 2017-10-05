@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mDisjunctiveExpressionTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mbuild with the pattern NOT ID[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return a Disjunctive Expression with positive false and of type Identifier[0m[0m
+[0m[[0minfo[0m] [0m[32mbuild with the pattern ID[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return a Disjunctive Expression with positive true and of type Identifier[0m[0m
+[0m[[0minfo[0m] [0m[32mbuild with the pattern NOT CompoundFactor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return a Disjunctive Expression with positive false and of type CompoundFactor[0m[0m

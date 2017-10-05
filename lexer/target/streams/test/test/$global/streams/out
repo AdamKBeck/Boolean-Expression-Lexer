@@ -1,0 +1,26 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(lexer.ComplexityTest, org.scalatest.tools.Framework$$anon$1@57d115ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(lexer.CompoundFactorTest, org.scalatest.tools.Framework$$anon$1@57d115ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(lexer.LocationalTokenTest, org.scalatest.tools.Framework$$anon$1@57d115ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(lexer.DisjunctiveLexerTest, org.scalatest.tools.Framework$$anon$1@57d115ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(lexer.DisjunctiveExpressionTest, org.scalatest.tools.Framework$$anon$1@57d115ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(lexer.ParserExceptionTest, org.scalatest.tools.Framework$$anon$1@57d115ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(lexer.IdentifierTest, org.scalatest.tools.Framework$$anon$1@57d115ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(lexer.ConjunctiveRepresentationTest, org.scalatest.tools.Framework$$anon$1@57d115ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(lexer.LexerTest, org.scalatest.tools.Framework$$anon$1@57d115ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(lexer.TokenTest, org.scalatest.tools.Framework$$anon$1@57d115ac, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 345 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 40[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 10, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 40, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	lexer.ParserExceptionTest[0m
+[0m[[0mdebug[0m] [0m	lexer.DisjunctiveLexerTest[0m
+[0m[[0mdebug[0m] [0m	lexer.IdentifierTest[0m
+[0m[[0mdebug[0m] [0m	lexer.CompoundFactorTest[0m
+[0m[[0mdebug[0m] [0m	lexer.ComplexityTest[0m
+[0m[[0mdebug[0m] [0m	lexer.ConjunctiveRepresentationTest[0m
+[0m[[0mdebug[0m] [0m	lexer.LocationalTokenTest[0m
+[0m[[0mdebug[0m] [0m	lexer.LexerTest[0m
+[0m[[0mdebug[0m] [0m	lexer.DisjunctiveExpressionTest[0m
+[0m[[0mdebug[0m] [0m	lexer.TokenTest[0m
